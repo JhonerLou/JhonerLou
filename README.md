@@ -1,10 +1,15 @@
-# Hi there, I'm Jhoner Lou 👋
+<h1 align="center">Hi there, I'm Jhoner Lou 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/JhonerLou">
-    <img src="https://rishavchanda.gallerycdn.vsassets.io/extensions/rishavchanda/material-icons-for-github/0.0.1/1590480922896/Microsoft.VisualStudio.Services.Icons.Default" width="100px" alt="Jhoner Lou's Avatar">
-  </a>
+  <img src="https://raw.githubusercontent.com/Shahriyar-R/Shahriyar-R/main/Assets/hand.gif" height="32px" width="32px" alt="Waving hand GIF">
 </p>
+
+## 🚀 About Me
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7DF1E&width=430&lines=I'm+a+[Your+Role];I+love+building+cool+things!;Continuously+learning+and+growing." alt="Typing effect animation" />
+</div>
+<br>
 
 ## 🚀 About Me
 
