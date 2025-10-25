@@ -4,8 +4,6 @@
   <img src="https://raw.githubusercontent.com/Shahriyar-R/Shahriyar-R/main/Assets/hand.gif" height="32px" width="32px" alt="Waving hand GIF">
 </p>
 
-## 🚀 About Me
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=450&lines=Passionate+Data+Scientist;Building+insights+from+data;Exploring+music+with+code;Always+learning+and+innovating." alt="Typing effect animation" />
 </div>
