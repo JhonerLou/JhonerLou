@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=42D392&width=450&lines=Data+Scientist+in+Training;Turning+data+into+stories;Python+enthusiast;Let's+build+something+cool." alt="Typing effect animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=450&lines=Passionate+Data+Scientist;Building+insights+from+data;Exploring+music+with+code;Always+learning+and+innovating." alt="Typing effect animation" />
 </div>
 <br>
 
