@@ -8,16 +8,11 @@
 
 ## 🚀 About Me
 
-I'm a [Your Role, e.g., Passionate Front-End Developer, Aspiring Data Scientist, Creative Software Engineer] with a knack for [Your Passion, e.g., crafting elegant user experiences, unraveling complex data, building robust applications]. I love bringing ideas to life through code and continuously learning new technologies.
+I'm a Aspiring Data Scientist and Data Analyst with a knack for unraveling complex data and building robust applications. I love bringing ideas to life through code and continuously learning new technologies.
 
-- 🔭 I’m currently focused on: **[Project Name/Current Learning Focus]** - a [brief description of your current project or learning goal].
-- 🌱 I’m always eager to learn: **[Next Technology/Concept, e.g., Cloud Computing with AWS, Advanced Algorithms, WebAssembly]**.
-- 🤝 I’m open to collaborating on: **[Type of projects, e.g., impactful open-source initiatives, innovative web applications, challenging data analysis projects]**.
-- 🤔 I’m looking for help with: **[A specific challenge or concept, e.g., optimizing database queries, understanding blockchain fundamentals]**.
-- 💬 Ask me about: **[Topics you are comfortable discussing, e.g., JavaScript, React, Python, hiking, indie games]**.
-- 📫 How to reach me: You can drop me an email at [your.email@example.com] or connect via my social links below\!
-- 😄 Pronouns: [He/Him, She/Her, They/Them, etc.]
-- ⚡ Fun fact: [A fun, quirky fact about you, e.g., "I can solve a Rubik's Cube in under 2 minutes," or "I once trained a parrot to say 'Hello, World!'"]
+- 🔭 I’m currently focused on: **Spotigai** - a mood based recommendation for music playlist and music player.
+- 📫 How to reach me: You can drop me an email at jhonerlou05@gmail.com or connect via my social links below\!
+- 😄 Pronouns: He/Him
 
 ---
 
@@ -59,28 +54,15 @@ Here are some of the tools and technologies I enjoy working with:
 
 ---
 
-### 🔥 My Latest Blog Posts / Articles (If you have any)
-
-- [Example Post Title 1](https://dev.to/your_username/your-post-slug-1)
-- [Example Post Title 2](https://medium.com/@your_username/your-post-slug-2)
-*(Replace with your actual blog posts, or remove this section if not applicable. You can also automate this with GitHub Actions!)*
-
----
 
 ### 📫 Let's Connect\!
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://linkedin.com/in/jhonerlou" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://dev.to/your-dev-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
-  </a>
-  <a href="https://medium.com/@your_username" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  <a href="https://instagram.com/jhoner.05" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   </p>
 
