@@ -55,7 +55,7 @@ Here are some of the tools and technologies I enjoy working with:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JhonerLou&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Jhoner Lou's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonerLou&theme=nord&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=JhonerLou&theme=nord&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonerLou&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
 </p>
 
